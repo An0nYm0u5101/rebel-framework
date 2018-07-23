@@ -157,10 +157,10 @@ https://github.com/Moham3dRiahi/Th3inspector
 https://github.com/sdushantha/qr-filetransfer
 <br>
 
-```Contact me on telegram : rebe11ion```
-
 <br>
-- special thanks for Mahmoud Mohamed for helping improve the project quality by testing it in several environments.
+- ```Contact me on telegram : rebe11ion```
+<br>
+- ```special thanks for Mahmoud Mohamed for helping improve the project quality by testing it in several environments.```
 <br>
 
 © 2018
