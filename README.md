@@ -134,6 +134,10 @@ https://github.com/rebellionil/rebel-framework/issues
 | ETH | 0x46409ba4e86313d99a5e13DD1Ca5f82d95529553 |
 | BTC | 11wqnCon1V3NmYGbkLtZtAWaqbH3Nc3VS          |
 ## EXTERNAL PROJECTS USED INSIDE THE FRAMEWORK 
+https://github.com/rebe11ion/tornado
+<br>
+https://github.com/rebe11ion/CryptNote
+<br>
 https://github.com/1N3/BlackWidow
 <br>
 https://github.com/Dionach/CMSmap
