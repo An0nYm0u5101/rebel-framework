@@ -158,6 +158,7 @@ https://github.com/sdushantha/qr-filetransfer
 <br>
 
 ```Contact me on telegram : rebe11ion```
+<br>
 ```special thanks for Mahmoud Mohamed for helping improve the project quality by testing it in several environments.```
 
 © 2018
