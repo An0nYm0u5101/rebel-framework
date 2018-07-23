@@ -2,7 +2,7 @@
 import smtplib, base64, os, sys, getopt, urllib2, urllib, re, socket, time, httplib, tarfile
 import itertools, urlparse, threading, Queue, multiprocessing, cookielib, datetime, zipfile
 import platform, signal
-from thirdparty.multipart import multipartpost
+import multipartpost
 from distutils.version import LooseVersion
 
 class Initialize:
