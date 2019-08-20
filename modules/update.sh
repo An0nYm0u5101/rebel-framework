@@ -11,7 +11,7 @@ if ! [[ $( diff ${current_path}/modules/.is_up_to_date .is_up_to_date ) == "" ]]
     read update
     if [[ $update =~ "y" ]] || [[ $update == "" ]] || [[ $update =~ "Y" ]] ; then
        echo -en "[+] Cloning Rebel-framework... \r"
-       git clone https://github.com/rebe11ion/rebel-framework 2> /dev/null
+       git clone https://github.com/reb311ion/rebel-framework 2> /dev/null
        rm -rf .is_up_to_date
        if [[ -d rebel-framework ]] ; then
           cd rebel-framework
